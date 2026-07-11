@@ -8,6 +8,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,4 +55,12 @@
 | ------- |
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
