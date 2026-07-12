@@ -40,11 +40,13 @@
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan1618/summerpepDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
