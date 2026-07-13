@@ -8,6 +8,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -17,12 +18,14 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -30,6 +33,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
