@@ -11,6 +11,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
@@ -22,12 +23,14 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -39,6 +42,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
