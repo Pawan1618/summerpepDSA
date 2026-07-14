@@ -43,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
@@ -76,4 +77,20 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
