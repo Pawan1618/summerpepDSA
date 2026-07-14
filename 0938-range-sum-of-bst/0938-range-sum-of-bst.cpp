@@ -11,16 +11,18 @@
  */
 class Solution {
 public:
-    int sm=0;
-    void dfs(TreeNode*root,int low,int high){
-        if(!root)return;
-        dfs(root->left,low,high);
-        if(root->val<=high&&root->val>=low)sm+=root->val;
-        dfs(root->right,low,high);
-    }
     int rangeSumBST(TreeNode* root, int low, int high) {
-        dfs(root,low,high);
-        return sm;
-        
+        if (root == nullptr)
+            return 0;
+
+        if (root->val < low)
+            return rangeSumBST(root->right, low, high);
+
+        if (root->val > high)
+            return rangeSumBST(root->left, low, high);
+
+        return root->val +
+               rangeSumBST(root->left, low, high) +
+               rangeSumBST(root->right, low, high);
     }
 };
