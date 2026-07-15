@@ -54,6 +54,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
