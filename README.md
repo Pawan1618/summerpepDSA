@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Pawan1618/summerpepDSA/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -123,6 +124,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Pawan1618/summerpepDSA/tree/master/0191-number-of-1-bits) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Graph Theory
 |  |
