@@ -13,10 +13,9 @@ public:
         }
         k %= temp.size();
         if(k == 0) return grid;
-        // if(temp.size()%k==0&&k>1)return grid;
         int s=0;
         s=temp.size()-k;
-        cout<<s;
+        // cout<<s;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 
