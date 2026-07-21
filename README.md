@@ -25,6 +25,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Search Tree
@@ -87,6 +88,7 @@
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -144,6 +147,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 ## Math
 |  |
 | ------- |
