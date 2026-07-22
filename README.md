@@ -21,6 +21,7 @@
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -89,6 +90,7 @@
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
@@ -136,6 +138,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
@@ -182,5 +185,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
