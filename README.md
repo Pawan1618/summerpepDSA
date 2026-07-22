@@ -27,6 +27,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
@@ -61,6 +62,7 @@
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
+| [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
@@ -93,6 +95,7 @@
 | [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -156,6 +160,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 ## Math
