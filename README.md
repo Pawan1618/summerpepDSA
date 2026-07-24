@@ -29,6 +29,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pawan1618/summerpepDSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
@@ -100,6 +101,7 @@
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pawan1618/summerpepDSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pawan1618/summerpepDSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -149,6 +151,7 @@
 | [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pawan1618/summerpepDSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Pawan1618/summerpepDSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Pawan1618/summerpepDSA/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
@@ -199,4 +202,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
