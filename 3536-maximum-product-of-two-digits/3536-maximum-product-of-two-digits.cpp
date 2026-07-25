@@ -1,19 +1,19 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int maxi=0;
-        int maxi1=0;
-        vector<int>res;
+        int first=0;
+        int second=0;
         while(n>0){
             int rem=n%10;
-            res.push_back(rem);
-
-            
+            if(rem>first){
+                second=first;
+                first=rem;
+            }
+            else if(rem>second){
+                second=rem;
+            }
             n=n/10;
         }
-        sort(res.begin(),res.end());
-        int m=res.size();
-        return  res[m-1]*res[m-2];
-        
+        return first*second;
     }
 };
