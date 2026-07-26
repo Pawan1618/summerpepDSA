@@ -74,6 +74,7 @@
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawan1618/summerpepDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -169,6 +170,7 @@
 | [0733-flood-fill](https://github.com/Pawan1618/summerpepDSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pawan1618/summerpepDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
+| [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
@@ -195,6 +197,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
+| [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawan1618/summerpepDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -218,4 +221,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
+## Linked List
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
