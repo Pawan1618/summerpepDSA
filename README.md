@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Pawan1618/summerpepDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
@@ -162,6 +163,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pawan1618/summerpepDSA/tree/master/0733-flood-fill) |
@@ -191,6 +193,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawan1618/summerpepDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
