@@ -55,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan1618/summerpepDSA/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Pawan1618/summerpepDSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pawan1618/summerpepDSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -189,6 +190,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan1618/summerpepDSA/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan1618/summerpepDSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pawan1618/summerpepDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
