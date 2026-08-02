@@ -61,6 +61,7 @@
 | [0198-house-robber](https://github.com/Pawan1618/summerpepDSA/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Pawan1618/summerpepDSA/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pawan1618/summerpepDSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Pawan1618/summerpepDSA/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pawan1618/summerpepDSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Array
@@ -78,6 +79,7 @@
 | [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pawan1618/summerpepDSA/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pawan1618/summerpepDSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Pawan1618/summerpepDSA/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Pawan1618/summerpepDSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
@@ -199,6 +201,7 @@
 | [0062-unique-paths](https://github.com/Pawan1618/summerpepDSA/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/Pawan1618/summerpepDSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Pawan1618/summerpepDSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan1618/summerpepDSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -258,4 +261,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pawan1618/summerpepDSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pawan1618/summerpepDSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
