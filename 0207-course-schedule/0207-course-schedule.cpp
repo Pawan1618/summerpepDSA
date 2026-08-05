@@ -3,7 +3,7 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>>graph(numCourses);
         vector<int>indegree(numCourses,0);
-        for(auto&i:prerequisites){
+        for(auto &i:prerequisites){
             graph[i[1]].push_back(i[0]);
             indegree[i[0]]++;
         }
@@ -14,6 +14,7 @@ public:
             }
         }
         vector<int>res;
+
         while(!q.empty()){
             int src=q.front();
             q.pop();
@@ -25,9 +26,5 @@ public:
             }
         }
         return (res.size()==numCourses);
-
-
-
-        
     }
 };
