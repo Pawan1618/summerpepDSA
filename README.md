@@ -7,6 +7,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -19,6 +20,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
@@ -47,6 +49,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -116,6 +119,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pawan1618/summerpepDSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0210-course-schedule-ii) |
