@@ -7,7 +7,7 @@ public:
         sort(nums.begin(),nums.end());
         auto it = std::unique(nums.begin(), nums.end());
         nums.erase(it, nums.end());
-        // for(auto i:nums)cout<<i<<" ";
+
         cout<<endl;
         for(int j=0;j<n;j++){
             if(lower>nums[i]){
@@ -47,18 +47,15 @@ public:
         for(int i=res.size()-1;i>res.size()-4;i--)cout<<res[i];
         res.push_back(res.back());
         for(int i=0;i<res.size()-1;i++){
-            // if(res[i]==967)cout<<"found";
-            // if(res[i]==res[i+1])continue;
-            // l=res[i];
+
             
             if((res[i]+1)==(res[i+1])){
-                // cout<<endl;
-                // cout<<res[i]<<res[i+1]<<endl;
+
                 l=res[i];
             }
             
             else{
-                // cout<<res[i]<<endl;
+
                 l=res[i];
                 fin.push_back({f,l});
                 f=res[i+1];
@@ -66,13 +63,6 @@ public:
             }
             
         }
-        // l=upper;
-        // cout<<l;
-        cout<<endl;
-        cout<<f<<" "<<l;
-        // if(l!=upper){
-        // fin.push_back({f,l+1});}
-        
 
 
         
