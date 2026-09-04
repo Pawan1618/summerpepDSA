@@ -19,11 +19,6 @@ public:
             }
             mini[i]=mn;
         }
-        for(int i:mini){
-            cout<<i;
-        }
-        cout<<endl;
-        for(int i:maxi)cout<<i;
         for(int i=0;i<n;i++){
             if((maxi[i]-mini[i])<=k)return i;
         }
