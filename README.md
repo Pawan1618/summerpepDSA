@@ -97,6 +97,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawan1618/summerpepDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawan1618/summerpepDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Pawan1618/summerpepDSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,4 +293,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
