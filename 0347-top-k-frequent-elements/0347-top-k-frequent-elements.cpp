@@ -11,7 +11,7 @@ public:
             temp.push_back(i.second);
         }
         sort(temp.rbegin(),temp.rend());
-        for(int i=0;i<temp.size();i++)cout<<temp[i]<<" ";
+        // for(int i=0;i<temp.size();i++)cout<<temp[i]<<" ";
         vector<int>res;
         for(int i=0;i<k;i++){
             for(auto&j:mp){
