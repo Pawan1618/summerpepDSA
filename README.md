@@ -81,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/Pawan1618/summerpepDSA/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Pawan1618/summerpepDSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Pawan1618/summerpepDSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Pawan1618/summerpepDSA/tree/master/0695-max-area-of-island) |
@@ -110,6 +111,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan1618/summerpepDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +162,7 @@
 | [0075-sort-colors](https://github.com/Pawan1618/summerpepDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan1618/summerpepDSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -170,6 +173,7 @@
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Pawan1618/summerpepDSA/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Pawan1618/summerpepDSA/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Topological Sort
 |  |
@@ -272,6 +277,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Pawan1618/summerpepDSA/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -328,4 +334,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
