@@ -112,6 +112,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan1618/summerpepDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Pawan1618/summerpepDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
@@ -125,6 +126,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan1618/summerpepDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Pawan1618/summerpepDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
