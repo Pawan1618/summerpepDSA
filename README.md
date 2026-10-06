@@ -129,6 +129,7 @@
 | [0205-isomorphic-strings](https://github.com/Pawan1618/summerpepDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pawan1618/summerpepDSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
