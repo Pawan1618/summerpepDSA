@@ -39,6 +39,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan1618/summerpepDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pawan1618/summerpepDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Pawan1618/summerpepDSA/tree/master/0938-range-sum-of-bst) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pawan1618/summerpepDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0063-unique-paths-ii) |
