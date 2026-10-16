@@ -76,6 +76,7 @@
 | [0001-two-sum](https://github.com/Pawan1618/summerpepDSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pawan1618/summerpepDSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pawan1618/summerpepDSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Pawan1618/summerpepDSA/tree/master/0075-sort-colors) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pawan1618/summerpepDSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pawan1618/summerpepDSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pawan1618/summerpepDSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
