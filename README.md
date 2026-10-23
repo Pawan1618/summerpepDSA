@@ -104,6 +104,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pawan1618/summerpepDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawan1618/summerpepDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan1618/summerpepDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -184,6 +185,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pawan1618/summerpepDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan1618/summerpepDSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan1618/summerpepDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pawan1618/summerpepDSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
