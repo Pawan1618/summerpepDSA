@@ -124,6 +124,7 @@
 | [0205-isomorphic-strings](https://github.com/Pawan1618/summerpepDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/Pawan1618/summerpepDSA/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@
 | [0049-group-anagrams](https://github.com/Pawan1618/summerpepDSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Pawan1618/summerpepDSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pawan1618/summerpepDSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pawan1618/summerpepDSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pawan1618/summerpepDSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan1618/summerpepDSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -378,4 +381,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pawan1618/summerpepDSA/tree/master/0056-merge-intervals) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
