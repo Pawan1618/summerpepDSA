@@ -102,6 +102,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pawan1618/summerpepDSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan1618/summerpepDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -132,6 +133,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Pawan1618/summerpepDSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawan1618/summerpepDSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -192,6 +194,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Pawan1618/summerpepDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan1618/summerpepDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Pawan1618/summerpepDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pawan1618/summerpepDSA/tree/master/3536-maximum-product-of-two-digits) |
