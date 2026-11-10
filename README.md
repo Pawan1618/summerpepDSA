@@ -72,6 +72,7 @@
 | [0877-stone-game](https://github.com/Pawan1618/summerpepDSA/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pawan1618/summerpepDSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Pawan1618/summerpepDSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3693-climbing-stairs-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Pawan1618/summerpepDSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Pawan1618/summerpepDSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3693-climbing-stairs-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pawan1618/summerpepDSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan1618/summerpepDSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pawan1618/summerpepDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
