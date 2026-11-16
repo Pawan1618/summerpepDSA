@@ -152,6 +152,7 @@
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pawan1618/summerpepDSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
@@ -291,6 +292,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Pawan1618/summerpepDSA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Pawan1618/summerpepDSA/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Pawan1618/summerpepDSA/tree/master/2326-spiral-matrix-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/3498-reverse-degree-of-a-string) |
