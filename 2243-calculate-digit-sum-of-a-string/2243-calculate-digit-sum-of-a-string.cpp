@@ -20,7 +20,7 @@ public:
             }
             if(cnt!=0)t+=to_string(temp);
             s=t;
-            if(t.size()<=k)return t;
+            // if(t.size()<=k)return t;
             
         }
         return s;
