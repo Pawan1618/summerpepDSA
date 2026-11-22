@@ -152,6 +152,7 @@
 | [0856-score-of-parentheses](https://github.com/Pawan1618/summerpepDSA/tree/master/0856-score-of-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Pawan1618/summerpepDSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Pawan1618/summerpepDSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pawan1618/summerpepDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pawan1618/summerpepDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pawan1618/summerpepDSA/tree/master/3498-reverse-degree-of-a-string) |
