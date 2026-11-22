@@ -1,8 +1,15 @@
 class Solution {
 public:
     bool checkString(string s) {
-        string s1=s;
-        sort(s.begin(),s.end());
-        return s==s1;
+        int n=s.size();
+        bool flag=false;
+        for(int i=0;i<n;i++){
+            if(s[i]=='b'){
+                flag=true;
+            }
+            if(s[i]=='a'&&flag==true)return false;
+        }
+        return true;
+        
     }
 };
